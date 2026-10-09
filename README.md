@@ -81,3 +81,10 @@ Endpoint utilizado:
 ## Objetivo
 
 Praticar a integração entre microcontroladores, comunicação I²C, conexão Wi-Fi, consumo de APIs e exibição de dados em tempo real.
+
+## 🔗 Simulação no Wokwi
+
+Acesse a simulação do projeto pelo link abaixo:
+
+[**Abrir simulação no Wokwi**](https://wokwi.com/projects/305569599398609473)
+
